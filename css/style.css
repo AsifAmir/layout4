@@ -1,0 +1,32 @@
+.logo{
+	height: 140px;
+	background-color: yellow;
+}
+
+.container{
+	overflow: hidden;
+}
+.skyblue{
+    height: 430px;
+    width: 30%;
+    float: left;
+    background-color: skyblue;
+}
+.teal{
+	height: 215px;
+	width: 70%;
+	float: right;
+	background-color: teal;
+}
+.darkred{
+	height: 215px;
+	width: 70%;
+	background-color: darkred;
+	float: right;
+}
+
+.footer{
+	height: 150px;
+	background-color: silver;
+	/*clear: both;*/
+}
